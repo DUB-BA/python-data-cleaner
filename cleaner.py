@@ -75,7 +75,7 @@ df['phone number'] = df['phone number'].str.replace(r'\D',' ',regex=True)
 
 #print(df)
 
-df.to_csv('clean_contacts.csv', index=False)
+df.to_csv('clean_contacts.csv', index=False, sep=';')
 
 #df.to_csv(): This is the save function. 
 # It takes the perfect, clean DataFrame in memory and writes it to a new file.

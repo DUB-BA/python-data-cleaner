@@ -1,4 +1,4 @@
-first_name,LAST NAME,email,phone number
-John,Smith,john.smith@example.com,555 123 4567
-Jane,Doe,jane.doe@example.com, 555  234 5678
-Peter,Jones,p.jones@example.com,555 345 6789
+first_name;LAST NAME;email;phone number
+John;Smith;john.smith@example.com;555 123 4567
+Jane;Doe;jane.doe@example.com; 555  234 5678
+Peter;Jones;p.jones@example.com;555 345 6789
